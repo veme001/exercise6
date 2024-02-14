@@ -1,4 +1,4 @@
 // vite.config.js
 export default {
-    base: "/exercise6"
-}
+  base: "/exercise6",
+};
